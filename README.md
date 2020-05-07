@@ -1,5 +1,10 @@
 # NLAProject
 
+## Files Attached
+* <b>Task 1A</b>: NLA_Project_Task1A.ipynb
+* <b>Task 1B</b>: FinalTask1B.ipynb
+* <b>Report </b>: Team_22.pdf
+
 ## Problem Statement
 
 ### Task 1A
